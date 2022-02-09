@@ -1,0 +1,25 @@
+{
+	"date": "25/8/2021",
+	"formControls": [
+	  {
+		"controlTitle": "way to meter",
+		"controlType": "file",
+		"meta_data": {
+		  "input_type": "Video",
+		  "required": true
+		}
+	  },
+	  {
+		"controlTitle": "meter photo",
+		"controlType": "file",
+		"meta_data": {
+		  "input_type": "Image",
+		  "required": true
+		}
+	  }
+	],
+	"priority": "1",
+	"taskDescription": "Take 2nd floor meter reading",
+	"taskTitle": "Take meter readings ",
+	"time": "17:0"
+  }
